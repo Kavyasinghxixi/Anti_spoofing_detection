@@ -35,12 +35,6 @@ pip install mediapipe
 
 ### PyTorch (Optional, for GPU acceleration)
 
-If you have a compatible GPU and want to accelerate the system using CUDA, follow these steps:
-
-1. Install the CUDA Toolkit: [CUDA Toolkit Installation Guide](link-to-cuda-installation-guide).
-
-2. Install PyTorch with GPU support: https://pytorch.org/get-started/locally/
-
 ## Dataset Setup
 
 To set up the `Dataset` directory and its subdirectories for the AntiSpoofingDetector, follow these steps:
